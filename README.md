@@ -1,2 +1,6 @@
-# haskell-aheui
-Aheui interpreter written in Haskell
+# Haskell-Aheui
+하스켈로 짠 아희 인터프리터.
+
+주: 엄청 느립니다.
+
+ghc 7.10.1에서 만들어졌으며, ghc를 문제 없이 설치한 경우라면 별도의 패키지 필요 없이 바로 ghc로 컴파일 하셔서 사용하시면 됩니다.
